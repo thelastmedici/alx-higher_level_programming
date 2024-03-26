@@ -27,6 +27,7 @@ The following files are included in this repository:
 - `7-insert_value.sql`: A SQL script that inserts a new row into a table.
 - `8-count_89.sql`: A SQL script that displays the number of records with a specific condition.
 - `9-full_creation.sql`: A SQL script that creates a new table with specific columns and constraints.
+- `11-best_score.sql`:`A SQL script that displays the best score for a given column and constraint.
 
 ## Usage
 
